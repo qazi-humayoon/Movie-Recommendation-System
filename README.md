@@ -21,6 +21,7 @@ git clone https://github.com/qazi-humayoon/Movie-Recommendation-System.git
 Contact
 - 📧 For any inquiries or feedback, please feel free to reach out at qazi.humayoon687@gmail.com.
 
+---
 
 # Acknowledgments
 🙏 I would like to extend my gratitude to the open-source community for their tools and resources that made this project possible.
