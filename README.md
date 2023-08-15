@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="project_logo.png" alt="Project Logo">
-</p>
 # Movie Recommendation System
 
 Welcome to the Movie Recommendation System repository! This project is designed to provide movie recommendations based on user input and similarity scores between movies.
