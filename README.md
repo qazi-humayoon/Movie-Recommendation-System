@@ -15,12 +15,12 @@ git clone https://github.com/qazi-humayoon/Movie-Recommendation-System.git
 ```
 # Get Involved
 🚀 I welcome contributions from the community! If you'd like to get involved, consider the following:
-```bash
+
 If you've found a bug or have suggestions, please open an issue. Your feedback is invaluable.
 To contribute code, fork the repository, make your changes, and submit a pull request. We'll review and work together to integrate your contributions.
 Contact
 📧 For any inquiries or feedback, please feel free to reach out at qazi.humayoon687@gmail.com.
-```
+
 
 # Acknowledgments
 🙏 I would like to extend my gratitude to the open-source community for their tools and resources that made this project possible.
